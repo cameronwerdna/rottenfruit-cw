@@ -1,0 +1,1 @@
+solution for the codewars 7kyu problem 'Help the Fruit Guy'. uses loops and methods to return an all lowercase array of fresh fruit.
